@@ -3,7 +3,7 @@ The supplementary files, datasets and code repositories for our paper titled: Ch
 
 ## Author
 
-Bayu Siddhi Mukti, Qudsiyah Zahra Ilham Naseela , Ahmadhian Daffa Yudistira, I Putu Adhitya Pratama Mangku Purnama, Irmasari Hafidz, Nurul Fajrin Ariyani, Hanim Maria Astuti, Aris Tjahyanto
+ Irmasari Hafidz, Bayu Siddhi Mukti, Qudsiyah Zahra Ilham Naseela , Ahmadhian Daffa Yudistira, I Putu Adhitya Pratama Mangku Purnama, Nurul Fajrin Ariyani, Hanim Maria Astuti, Aris Tjahyanto
 
 ## Table of Contents
 - [Installation](#installation)
