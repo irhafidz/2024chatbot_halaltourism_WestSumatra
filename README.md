@@ -7,7 +7,7 @@ The supplementary files, datasets and code repositories for our paper titled: Ch
 
  ## How to cite
  Link https://journal.its.ac.id/index.php/hr/article/view/1819
- Hafidz, I., Mukti, B. S., Naseela, Q. Z. I., Yudistira, A. D., Purnama, I. P. A. P. M., Ariyani, N. F., ... & Tjahyanto, A. (2024). Chatbot Model Development Using BERT for West Sumatera Halal Tourism Information. Halal Research Journal, 4(2), 117-131.
+ Hafidz, I., Mukti, B.S., Naseela, Q.Z.I., Yudistira, A.D., Purnama, I.P.A.P.M., Ariyani, N.F., Astuti, H.M. and Tjahyanto, A., 2024. Chatbot Model Development Using BERT for West Sumatera Halal Tourism Information. Halal Research Journal, 4(2), pp.117-131.
 
 ## Table of Contents
 - [Installation](#installation)
